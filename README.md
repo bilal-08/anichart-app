@@ -1,6 +1,10 @@
 ## AniChart
 This is an AniChart Clone made with expo react native.
 
+# Screenshots
+![screenshot](https://github.com/user-attachments/assets/c4db1316-5bc3-41ae-aafe-613c63351f20)
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
